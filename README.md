@@ -467,3 +467,11 @@ The following chart is from the [2019 State of DevOps Report](https://www.devops
 ![Image of chart from the State of DevOps Report, showing the range of each key metric for elite, high, medium, and low software delivery performers.](images/dora-chart.png)
 
 Disclaimer: This is not an officially supported Google product
+
+
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+> Cloning into `Spoon-Knife`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
